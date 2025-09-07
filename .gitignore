@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual envs
+.venv/
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# GitHub Actions cache/logs
+*.log
+*.tmp
+
+# Do not track compiled packages
+dist/
+build/
+*.egg-info/
